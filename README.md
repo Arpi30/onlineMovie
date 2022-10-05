@@ -13,21 +13,21 @@ git push -u origin main
 
 ## How to collaborate:
 
-Clone the git repo: "git clone https://github.com/Arpi30/onlineMovie.git"
+**Clone the git repo: "git clone https://github.com/Arpi30/onlineMovie.git**
 
 ## make your own branch
 
-"git branch (own branch name without brackets)"
+git branch (own branch name without brackets)
 
 ## Never use main branch!
 
 ## Make your own branch and #switch# to it:
 
-"git checkout -b "
+git checkout -b
 
 ## Or switch to existing branch!
 
-"git checkout (branch name without brackets)"
+git checkout (branch name without brackets)
 
 ## Now make your `work!`
 
@@ -35,11 +35,11 @@ Clone the git repo: "git clone https://github.com/Arpi30/onlineMovie.git"
 
 ## And now push
 
-"git push -u origin "
+git push -u origin
 
 ## Pulling Before you start working, you might want to pull the recent main changes:
 
-**"git pull origin main"**
+**git pull origin main**
 
 #######################################################################################################################
 
