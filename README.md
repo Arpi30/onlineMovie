@@ -11,25 +11,35 @@ git push -u origin main
 
 ---
 
-How to collaborate:
+## How to collaborate:
 
 Clone the git repo: "git clone https://github.com/Arpi30/onlineMovie.git"
 
-make your own branch "git branch (own branch name without brackets)"
+## make your own branch
 
-Never use main branch!
+"git branch (own branch name without brackets)"
 
-Make your own branch and #switch# to it: "git checkout -b "
+## Never use main branch!
 
-Or switch to existing branch! "git checkout (branch name without brackets)"
+## Make your own branch and #switch# to it:
 
-Now make your work!
+"git checkout -b "
 
-Now it's time to add & commit: "git add ." "git commit -m "Commit message"
+## Or switch to existing branch!
 
-And now push "git push -u origin "
+"git checkout (branch name without brackets)"
 
-Pulling Before you start working, you might want to pull the recent main changes: "git pull origin main"
+## Now make your `work!`
+
+**Now it's time to add & commit: "git add ." "git commit -m "Commit message"**
+
+## And now push
+
+"git push -u origin "
+
+## Pulling Before you start working, you might want to pull the recent main changes:
+
+**"git pull origin main"**
 
 #######################################################################################################################
 
