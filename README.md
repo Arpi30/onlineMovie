@@ -1,3 +1,5 @@
+# Getting Started with Settings
+
 Setting up a fresh project git init git commit -m "First commit, containing the first design elements" git branch -M main git remote add origin https://github.com/Arpi30/onlineMovie.git git push -u origin main
 …or push an existing repository from the command line
 
